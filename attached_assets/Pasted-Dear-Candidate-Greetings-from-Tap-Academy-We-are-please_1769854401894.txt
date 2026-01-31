@@ -1,0 +1,63 @@
+Dear Candidate,
+Greetings from Tap Academy!
+We are pleased to inform you that you have been shortlisted for the next stage of the selection process for the AI & Technology Intern role at Iron Lady. 
+Assignment has been shared below kindly read carefully. Please ensure that you complete and submit the assignment within three days, i.e., on or before 2 February 2026 by 9:30 AM. Submissions received after this date and time will not be considered.
+
+Once you have completed the assignment, kindly ensure that you fill out the Google Form provided below.
+Important Instruction
+Before starting the assignment, you are required to:
+➡ Thoroughly explore and research our website: www.iamironlady.com
+➡ Understand our:
+Business model
+Offerings and programs
+Target audience
+Customer journey
+Your solutions must be based on your understanding of Iron Lady as a business.
+Assignment Objective
+This assignment is designed to evaluate:
+Your technical ability
+Your business understanding
+Your creativity and problem-solving skills
+Your ability to use AI tools effectively
+Your approach to building real-world solutions
+You may use any tools, frameworks, or AI platforms of your choice.
+We strongly encourage the use of AI extensively.
+⚠️ We will evaluate only the final working output shown in your demo video, not how manually you coded it.
+Task 1: AI-based Customer Interaction Solution
+Design and build an AI-powered solution related to Iron Lady’s customer or learner journey.
+Your solution should:
+Be relevant to Iron Lady’s business
+Help users understand our programs, services, or process
+Improve customer experience, engagement, or support
+The format is completely open-ended (chatbot, assistant, recommender, interactive guide, etc.).
+Your creativity in defining the use case is part of the evaluation.
+Task 2: Internal Business Automation Solution
+Design and build a basic application (web or mobile) that supports Iron Lady’s internal operations.
+Your solution should:
+Be relevant to Iron Lady’s internal business workflow
+Include at least one complete CRUD flow (Create, Read, Update, Delete)
+Demonstrate how technology can reduce manual work or improve efficiency
+You must decide:
+The problem you are solving
+The workflow
+The features
+Creativity and relevance to the business will be heavily weighted.
+Submission Requirements
+You must submit:
+Source code ( GitHub )
+Demo videos (2–3 minutes per task) clearly showing:
+What problem you identified
+How your solution works
+How AI is used in your solution
+⚠️ Submissions without demo videos will not be evaluated.
+Google Form Link: https://forms.gle/6GdZe26kvKkyQerE6
+
+Deadline
+Please ensure that you complete and submit the assignment within three days, i.e., on or before 2 February 2026 by 9:30 AM. 
+Late submissions will not be considered.
+
+All The Best.
+Regards,
+
+Placement Cell
+Tap Academy
