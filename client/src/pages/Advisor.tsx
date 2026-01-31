@@ -100,7 +100,7 @@ export default function Advisor() {
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-900">
       <Sidebar />
-      <main className="md:pl-64 h-screen flex flex-col">
+      <main className="pt-14 md:pt-0 md:pl-64 h-screen flex flex-col">
         <div className="p-6 border-b bg-white dark:bg-slate-800 shadow-sm z-10">
           <h1 className="text-2xl font-display font-bold flex items-center gap-2">
             <Bot className="text-primary h-6 w-6" /> 

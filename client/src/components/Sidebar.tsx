@@ -17,15 +17,18 @@ export function Sidebar() {
 
   return (
     <>
-      {/* Mobile Toggle */}
-      <Button
-        variant="ghost"
-        size="icon"
-        className="fixed top-4 left-4 z-50 md:hidden"
-        onClick={() => setIsOpen(!isOpen)}
-      >
-        {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
-      </Button>
+      {/* Mobile Header Bar */}
+      <header className="fixed top-0 left-0 right-0 z-50 flex h-14 items-center gap-4 border-b border-slate-200 bg-white px-4 dark:border-slate-700 dark:bg-slate-900 md:hidden">
+        <Button
+          variant="ghost"
+          size="icon"
+          data-testid="button-sidebar-toggle"
+          onClick={() => setIsOpen(!isOpen)}
+        >
+          {isOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+        </Button>
+        <span className="font-display text-lg font-bold text-amber-600">IRON LADY</span>
+      </header>
 
       {/* Sidebar Container */}
       <aside 

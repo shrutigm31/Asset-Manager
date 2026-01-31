@@ -41,7 +41,7 @@ export default function Dashboard() {
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-900">
       <Sidebar />
-      <main className="md:pl-64 transition-all duration-300">
+      <main className="pt-14 md:pt-0 md:pl-64 transition-all duration-300">
         <div className="container mx-auto p-6 md:p-8 space-y-8">
           
           {/* Header */}
